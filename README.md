@@ -1,2 +1,3 @@
 Emma Fleurant
-<a href="https://www.bestpractices.dev/projects/5621"><img src="https://www.bestpractices.dev/projects/5621/badge"></a>
+
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10318/badge)](https://www.bestpractices.dev/projects/10318)
